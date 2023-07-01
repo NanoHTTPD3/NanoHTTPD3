@@ -1,4 +1,4 @@
-## NanoHTTPD – a tiny web server in Java
+## NanoHTTPD3 – a tiny web server in Java
 
 *NanoHTTPD* is a light-weight HTTP server designed for embedding in other applications, released under a Modified BSD licence.
 
